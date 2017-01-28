@@ -1,0 +1,3 @@
+This produces an (effectively) infinite stream of binary 64bit integers. I use
+it to stress-test hard disks. It's better than filling with just zeroes, as it
+seems broken drives manifest more errors with data that is not all-zeroes.
